@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/barchart"
+        android:icon="@drawable/ic_bar_chart"
+        app:showAsAction="always"
+        android:title="Bar"/>
+    <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/ic_baseline_refresh"
+        app:showAsAction="always"
+        android:title="Refresh"/>
+    <item
+        android:id="@+id/compartir1"
+        android:title="Prueba1"/>
+    <item
+        android:id="@+id/compartir2"
+        android:title="Prueba2"/>
+    <item
+        android:id="@+id/compartir3"
+        android:title="Prueba3"/>
+    </menu>
